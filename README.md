@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Philips Excellence Center<br>🌱 I’m currently learning Java Spring<br>💬 Ask me about<br>⚡ Fun fact: Platypuses produce milk and lay eggs, which makes them portable omelette sources.
 
 
 ## 🌐 Socials:
