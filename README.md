@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on WA Fenix<br>🌱 I’m currently learning Java Spring<br>💬 Ask me about anything!<br>⚡ Fun fact: Platypuses produce milk and lay eggs, which makes them portable omelette sources.
+🔭 I’m currently working on WA Fenix<br>🌱 I’m currently learning about BDD<br>💬 Ask me about anything!<br>⚡ Fun fact: Platypuses produce milk and lay eggs, which makes them portable omelette sources.
 
 
 ## 🌐 Socials:
